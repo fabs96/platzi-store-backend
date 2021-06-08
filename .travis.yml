@@ -22,4 +22,4 @@ deploy:
   api_key: 93229d11-7495-4c67-a262-af56518d772a
   app: fabz-platzi-store-backend
   on:
-    repo: fabz/platzi-store-backend     
+    repo: fabz96/platzi-store-backend     
